@@ -65,7 +65,8 @@ Jaiclub khud ek legitimate platform hai, lekin online fraud kabhi kabhi bahar se
 Alert: Koi suspicious call ya message aaye toh turant official in-app support ko report karo. Password ya OTP share karne se account hack ho sakta hai.
 
 ## 2026 mein Jaiclub kyun choose karein?
-●	6+ game types — Teen Patti se fantasy cricket tak, har player ke liye kuch na kuch.
+●	6+ game types — Teen Patti se fantasy cricket tak,
+    har player ke liye kuch na kuch.
 ●	Instant UPI withdrawal — minutes mein paisa haath mein.
 ●	Low entry ₹100 — sab ke liye accessible.
 ●	Best bonuses + referral income — earn karo bina extra investment ke.
