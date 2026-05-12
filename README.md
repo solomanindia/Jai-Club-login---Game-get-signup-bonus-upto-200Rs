@@ -3,6 +3,93 @@ Jai Club login- India's No.1 PLatform Game get signup bonus upto 200Rs
 
 
  <a href="https://jaiclubapp.in.net"><img src="https://i.imageupload.app/a74f0b316a5d04b7ce3f.jpeg" alt="Centered Image" width="300"></a>
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jaiclub Buttons</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+      font-family: 'Segoe UI', Arial, sans-serif;
+    }
+
+    .btn-container {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .btn {
+      padding: 14px 36px;
+      font-size: 16px;
+      font-weight: 600;
+      border-radius: 8px;
+      cursor: pointer;
+      text-decoration: none;
+      letter-spacing: 0.5px;
+      transition: all 0.3s ease;
+      border: 2px solid transparent;
+      display: inline-block;
+    }
+
+    /* Register Button - Solid Blue */
+    .btn-register {
+      background: #1565C0;
+      color: #ffffff;
+      border-color: #1565C0;
+      box-shadow: 0 4px 15px rgba(21, 101, 192, 0.4);
+    }
+
+    .btn-register:hover {
+      background: #0D47A1;
+      border-color: #0D47A1;
+      box-shadow: 0 6px 20px rgba(21, 101, 192, 0.6);
+      transform: translateY(-2px);
+    }
+
+    .btn-register:active {
+      transform: translateY(0px);
+      box-shadow: 0 2px 8px rgba(21, 101, 192, 0.4);
+    }
+
+    /* Login Button - Outline Blue */
+    .btn-login {
+      background: transparent;
+      color: #42A5F5;
+      border-color: #42A5F5;
+      box-shadow: 0 4px 15px rgba(66, 165, 245, 0.2);
+    }
+
+    .btn-login:hover {
+      background: #42A5F5;
+      color: #ffffff;
+      box-shadow: 0 6px 20px rgba(66, 165, 245, 0.45);
+      transform: translateY(-2px);
+    }
+
+    .btn-login:active {
+      transform: translateY(0px);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="btn-container">
+    <a href="#" class="btn btn-register">Jaiclub Register</a>
+    <a href="#" class="btn btn-login">Jaiclub Login</a>
+  </div>
+
+</body>
+</html>
   
 ## What is Jaiclub Game? 
 Jaiclub Game ek online real money gaming platform hai jo India mein tezi se popular ho raha hai. Isme aap Teen Patti, Rummy, Aviator, Sports Betting aur Fantasy Sports khel sakte hain — aur asli paisa jeet sakte hain.
