@@ -1,8 +1,8 @@
 # Jai Club login Game Get Signup Bonus upto 200Rs
 Jai Club login- India's No.1 PLatform Game get signup bonus upto 200Rs
 
-
-  <a href="https://jaiclubapp.in.net"><img src="https://i.imageupload.app/a74f0b316a5d04b7ce3f.jpeg" alt="image"></a>
+<img src="https://i.imageupload.app/a74f0b316a5d04b7ce3f.jpeg" alt="Centered Image" width="300">
+ <a href="https://jaiclubapp.in.net"><img src="https://i.imageupload.app/a74f0b316a5d04b7ce3f.jpeg" alt="image"></a>
   
 ## What is Jaiclub Game? 
 Jaiclub Game ek online real money gaming platform hai jo India mein tezi se popular ho raha hai. Isme aap Teen Patti, Rummy, Aviator, Sports Betting aur Fantasy Sports khel sakte hain — aur asli paisa jeet sakte hain.
