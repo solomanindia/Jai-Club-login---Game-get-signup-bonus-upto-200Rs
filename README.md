@@ -3,6 +3,7 @@ Jai Club login- India's No.1 PLatform Game get signup bonus upto 200Rs
 
 
  <a href="https://jaiclubapp.in.net"><img src="https://i.imageupload.app/a74f0b316a5d04b7ce3f.jpeg" alt="Centered Image" width="300"></a>
+ <meta name="google-site-verification" content="Hk2Y9vRSAprVPfDFHxPgwYS2vCqLs9Rc02_J2sGDpXo" />
 </head>
 <body>
 
